@@ -25,3 +25,9 @@ yarn-error.log*
 
 # Django
 __pycache__/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+ml-*.zip
