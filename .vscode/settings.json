@@ -1,0 +1,22 @@
+{
+    "eslint.enable": false,
+    "jshint.enable": false,
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#8fc5b9",
+        "activityBar.activeBorder": "#a36cb3",
+        "activityBar.background": "#8fc5b9",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#a36cb3",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#6eb3a4",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#529c8c",
+        "titleBar.activeBackground": "#6eb3a4",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#6eb3a499",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#6eb3a4"
+}
