@@ -32,7 +32,6 @@
   "bugs": {
     "url": "https://github.com/mdirshaddev/MovieRecommend/issues"
   },
-  "homepage": "https://github.com/mdirshaddev/MovieRecommend#readme",
   "eslintConfig": {
     "extends": "react-app"
   },
