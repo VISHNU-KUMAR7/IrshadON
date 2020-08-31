@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+imimport './scss/index.scss';
 import App from './App';
-
-import './scss/index.scss';
 
 ReactDOM.render(
   <React.Fragment>
